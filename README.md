@@ -2,6 +2,7 @@
 
 Bachelor thesis project (DTU, Department of Applied Mathematics and Computer
 Science, 2025): **Iterative Solvers for Large Linear Systems of Equations**.
+Full thesis: [thesis.pdf](thesis.pdf)
 
 Compares two randomized preconditioners for solving large regularized linear
 systems `(A + uI)x = b` with the Preconditioned Conjugate Gradient (PCG)
